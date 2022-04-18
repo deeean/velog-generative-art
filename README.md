@@ -1,1 +1,1 @@
-# firework
+# velog-generative-art
